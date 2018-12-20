@@ -87,7 +87,7 @@ C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.csproj.CoreCompileInputs.
 C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.csproj.CopyComplete
 C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.dll
 C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.pdb
-C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.csprojAssemblyReference.cache
 C:\Users\1\source\repos\AmaxDB\AmaxDB\bin\System.Web.Cors.dll
 C:\Users\1\source\repos\AmaxDB\AmaxDB\bin\System.Web.Http.Cors.dll
 C:\Users\1\source\repos\AmaxDB\AmaxDB\bin\System.Web.Http.Cors.xml
+C:\Users\1\source\repos\AmaxDB\AmaxDB\obj\Debug\AmaxDB.csprojAssemblyReference.cache

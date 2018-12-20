@@ -13,10 +13,10 @@ namespace AmaxDB.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Amax_UsersEntities : DbContext
+    public partial class Amax_DBEntities : DbContext
     {
-        public Amax_UsersEntities()
-            : base("name=Amax_UsersEntities")
+        public Amax_DBEntities()
+            : base("name=Amax_DBEntities")
         {
         }
     

@@ -14,7 +14,7 @@ namespace AmaxDB.Controllers
 {
     public class AmaxesController : ApiController
     {
-        private Amax_UsersEntities db = new Amax_UsersEntities();
+        private Amax_DBEntities db = new Amax_DBEntities();
 
         // GET: api/Amaxes
         public IQueryable<Amax> GetAmax()
@@ -71,7 +71,6 @@ namespace AmaxDB.Controllers
         [ResponseType(typeof(Amax))]
         public IHttpActionResult PostAmax(Amax amax)
         {
-          
 
             db.Amax.Add(amax);
             db.SaveChanges();

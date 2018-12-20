@@ -17,6 +17,7 @@ namespace AmaxDB.Models
         public int id { get; set; }
         public string firstName { get; set; }
         public string lastName { get; set; }
+        public System.DateTime birthDate { get; set; }
         public string email { get; set; }
         public string phone { get; set; }
     }
